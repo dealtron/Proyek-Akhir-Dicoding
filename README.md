@@ -1,2 +1,2 @@
 # Proyek-Akhir-Dicoding
-Proyek Dicoding
+Code of Final Project : Image Classification for Dicoding
